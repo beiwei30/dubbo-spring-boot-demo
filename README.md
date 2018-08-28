@@ -1,3 +1,1 @@
-# dubbo spring boot demo
-
-http://start.dubbo.io/
+Dubbo filter demo
